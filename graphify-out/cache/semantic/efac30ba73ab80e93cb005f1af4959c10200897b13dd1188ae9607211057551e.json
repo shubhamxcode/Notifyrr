@@ -1,0 +1,1 @@
+{"nodes": [{"id": "references_server_vs_client_server_client_auth_boundary", "label": "Server and Client Authentication Boundary", "file_type": "concept", "source_file": ".agents/skills/clerk-nextjs-patterns/references/server-vs-client.md", "source_location": "1-104", "source_url": null, "captured_at": null, "author": null, "contributor": null}], "edges": [], "hyperedges": []}

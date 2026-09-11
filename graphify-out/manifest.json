@@ -1,0 +1,1107 @@
+{
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-astro-patterns/evals/evals.json": {
+    "mtime": 1788330358.1858118,
+    "ast_hash": "0b01f08ee6c265883bfce3c199639946",
+    "semantic_hash": "0b01f08ee6c265883bfce3c199639946"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-astro-patterns/templates/astro-basic-auth/astro.config.mjs": {
+    "mtime": 1788330358.1861198,
+    "ast_hash": "ba3f1527b7ddd24f716dd8f8ec6f1870",
+    "semantic_hash": "ba3f1527b7ddd24f716dd8f8ec6f1870"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-astro-patterns/templates/astro-basic-auth/package.json": {
+    "mtime": 1788330358.1863065,
+    "ast_hash": "a879d513b890406e76763dd516b7b36f",
+    "semantic_hash": "a879d513b890406e76763dd516b7b36f"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-astro-patterns/templates/astro-basic-auth/src/layouts/Layout.astro": {
+    "mtime": 1788330358.1866503,
+    "ast_hash": "75fca84e91fe0f4721e85e85d7c69f30",
+    "semantic_hash": "75fca84e91fe0f4721e85e85d7c69f30"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-astro-patterns/templates/astro-basic-auth/src/middleware.ts": {
+    "mtime": 1788330358.1865246,
+    "ast_hash": "be99bbcad2a5f7f562fc1738d1c5eac9",
+    "semantic_hash": "be99bbcad2a5f7f562fc1738d1c5eac9"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-astro-patterns/templates/astro-basic-auth/src/pages/index.astro": {
+    "mtime": 1788330358.1865873,
+    "ast_hash": "31e1f34ac16ed8962c7dfee25c3c0398",
+    "semantic_hash": "31e1f34ac16ed8962c7dfee25c3c0398"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-astro-patterns/templates/astro-basic-auth/tsconfig.json": {
+    "mtime": 1788330358.1862247,
+    "ast_hash": "2468ad4201072028f1f60c1591299ac9",
+    "semantic_hash": "2468ad4201072028f1f60c1591299ac9"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-backend-api/evals/evals.json": {
+    "mtime": 1788330357.9560678,
+    "ast_hash": "910f6f7b72f6b12e0275bbd3c4442faa",
+    "semantic_hash": "910f6f7b72f6b12e0275bbd3c4442faa"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-backend-api/scripts/api-specs-context.sh": {
+    "mtime": 1788330357.9563527,
+    "ast_hash": "2d9af51ac0c99a776b6b2633b21aefe2",
+    "semantic_hash": "2d9af51ac0c99a776b6b2633b21aefe2"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-backend-api/scripts/execute-request.sh": {
+    "mtime": 1788330357.9565446,
+    "ast_hash": "e3040807ed64044dd9fef0188accb1f8",
+    "semantic_hash": "e3040807ed64044dd9fef0188accb1f8"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-backend-api/scripts/extract-endpoint-detail.sh": {
+    "mtime": 1788330357.955579,
+    "ast_hash": "1869842b006eae23ab1eb89db02e87b4",
+    "semantic_hash": "1869842b006eae23ab1eb89db02e87b4"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-backend-api/scripts/extract-tag-endpoints.sh": {
+    "mtime": 1788330357.9560678,
+    "ast_hash": "0a11c2d6950e55268d7de1c3c05744f9",
+    "semantic_hash": "0a11c2d6950e55268d7de1c3c05744f9"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-backend-api/scripts/extract-tags.js": {
+    "mtime": 1788330357.956153,
+    "ast_hash": "b9c0f97ba99fa921ce8f1cd481f64deb",
+    "semantic_hash": "b9c0f97ba99fa921ce8f1cd481f64deb"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-billing/evals/evals.json": {
+    "mtime": 1788330358.0879061,
+    "ast_hash": "b6981b5506bd25ee19cb96a7d3e75912",
+    "semantic_hash": "b6981b5506bd25ee19cb96a7d3e75912"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-chrome-extension-patterns/evals/evals.json": {
+    "mtime": 1788330358.229411,
+    "ast_hash": "2e63140fa8040d0837e820be0b93f552",
+    "semantic_hash": "2e63140fa8040d0837e820be0b93f552"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-chrome-extension-patterns/templates/chrome-ext-basic-auth/package.json": {
+    "mtime": 1788330358.229642,
+    "ast_hash": "0a2a12d12f68b07d83c7e85e381151b7",
+    "semantic_hash": "0a2a12d12f68b07d83c7e85e381151b7"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-chrome-extension-patterns/templates/chrome-ext-basic-auth/src/popup.tsx": {
+    "mtime": 1788330358.2298608,
+    "ast_hash": "2bf62b4b029b2b497701d6af3a79a8a4",
+    "semantic_hash": "2bf62b4b029b2b497701d6af3a79a8a4"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-chrome-extension-patterns/templates/chrome-ext-basic-auth/tsconfig.json": {
+    "mtime": 1788330358.2297423,
+    "ast_hash": "1e9264c318933eb8bd4cab57bf76d32d",
+    "semantic_hash": "1e9264c318933eb8bd4cab57bf76d32d"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-expo/evals/evals.json": {
+    "mtime": 1788330358.6134331,
+    "ast_hash": "2200fbc21f9a3d0a682a09ad52cdc336",
+    "semantic_hash": "2200fbc21f9a3d0a682a09ad52cdc336"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nextjs-patterns/evals/evals.json": {
+    "mtime": 1788330358.278275,
+    "ast_hash": "e83418e8589354ff3e80122e2bea6ae9",
+    "semantic_hash": "e83418e8589354ff3e80122e2bea6ae9"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nextjs-patterns/templates/nextjs-basic-auth/app/layout.tsx": {
+    "mtime": 1788330358.2795157,
+    "ast_hash": "102d53ea7fcf513fd31664145e64f6b0",
+    "semantic_hash": "102d53ea7fcf513fd31664145e64f6b0"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nextjs-patterns/templates/nextjs-basic-auth/app/page.tsx": {
+    "mtime": 1788330358.2795117,
+    "ast_hash": "cdc7876fd12ff2359c8ef22962c356f8",
+    "semantic_hash": "cdc7876fd12ff2359c8ef22962c356f8"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nextjs-patterns/templates/nextjs-basic-auth/package.json": {
+    "mtime": 1788330358.2793438,
+    "ast_hash": "a4c1292d54dcc60ba628bbbf928e48f1",
+    "semantic_hash": "a4c1292d54dcc60ba628bbbf928e48f1"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nextjs-patterns/templates/nextjs-basic-auth/proxy.ts": {
+    "mtime": 1788330358.2793593,
+    "ast_hash": "4674324ea42d78a5989eda380e9d90cc",
+    "semantic_hash": "4674324ea42d78a5989eda380e9d90cc"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nextjs-patterns/templates/nextjs-basic-auth/tsconfig.json": {
+    "mtime": 1788330358.2793303,
+    "ast_hash": "0571b7572750de64278b413e513f8022",
+    "semantic_hash": "0571b7572750de64278b413e513f8022"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nuxt-patterns/evals/evals.json": {
+    "mtime": 1788330358.3107908,
+    "ast_hash": "e98482ae53061101fb3d061f3efb07a5",
+    "semantic_hash": "e98482ae53061101fb3d061f3efb07a5"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nuxt-patterns/templates/nuxt-basic-auth/app.vue": {
+    "mtime": 1788330358.3110812,
+    "ast_hash": "9a5216f6d762b83263904f769da88580",
+    "semantic_hash": "9a5216f6d762b83263904f769da88580"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nuxt-patterns/templates/nuxt-basic-auth/nuxt.config.ts": {
+    "mtime": 1788330358.3110895,
+    "ast_hash": "04273c8b405282565832a4a13759569f",
+    "semantic_hash": "04273c8b405282565832a4a13759569f"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nuxt-patterns/templates/nuxt-basic-auth/package.json": {
+    "mtime": 1788330358.3111212,
+    "ast_hash": "a48c39cf5828960df80d273ac104cd57",
+    "semantic_hash": "a48c39cf5828960df80d273ac104cd57"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-orgs/evals/evals.json": {
+    "mtime": 1788330358.1145766,
+    "ast_hash": "b762f389b30cad3a0f41d9db154d8a57",
+    "semantic_hash": "b762f389b30cad3a0f41d9db154d8a57"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-patterns/evals/evals.json": {
+    "mtime": 1788330358.3503423,
+    "ast_hash": "afbd28f2b6ced0369768d40a2feb790d",
+    "semantic_hash": "afbd28f2b6ced0369768d40a2feb790d"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-patterns/templates/react-basic-auth/package.json": {
+    "mtime": 1788330358.3505073,
+    "ast_hash": "28f42c6f22fd43799f2b3ede7a81f0be",
+    "semantic_hash": "28f42c6f22fd43799f2b3ede7a81f0be"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-patterns/templates/react-basic-auth/src/App.tsx": {
+    "mtime": 1788330358.3506982,
+    "ast_hash": "cc6438abadb7a1a9ccbba0d1f9b51387",
+    "semantic_hash": "cc6438abadb7a1a9ccbba0d1f9b51387"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-patterns/templates/react-basic-auth/src/main.tsx": {
+    "mtime": 1788330358.3507025,
+    "ast_hash": "d41005877cfe6fb77a31602e6df3eae4",
+    "semantic_hash": "d41005877cfe6fb77a31602e6df3eae4"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-patterns/templates/react-basic-auth/tsconfig.json": {
+    "mtime": 1788330358.3505044,
+    "ast_hash": "af966ab6bebf763690e3158d8b3c979b",
+    "semantic_hash": "af966ab6bebf763690e3158d8b3c979b"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-patterns/templates/react-basic-auth/vite.config.ts": {
+    "mtime": 1788330358.3505812,
+    "ast_hash": "8c370d6e3ac0bdb3d4a0981ed930a999",
+    "semantic_hash": "8c370d6e3ac0bdb3d4a0981ed930a999"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-router-patterns/evals/evals.json": {
+    "mtime": 1788330358.4613435,
+    "ast_hash": "442aa54f943941826906436dd5fd7cc4",
+    "semantic_hash": "442aa54f943941826906436dd5fd7cc4"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-router-patterns/templates/react-router-basic-auth/app/root.tsx": {
+    "mtime": 1788330358.4622493,
+    "ast_hash": "f9a41bf39903fdfb84ea3df4c2e72fc4",
+    "semantic_hash": "f9a41bf39903fdfb84ea3df4c2e72fc4"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-router-patterns/templates/react-router-basic-auth/app/routes.ts": {
+    "mtime": 1788330358.4622185,
+    "ast_hash": "ca5428a88ada3321ecf198389b52af2d",
+    "semantic_hash": "ca5428a88ada3321ecf198389b52af2d"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-router-patterns/templates/react-router-basic-auth/app/routes/home.tsx": {
+    "mtime": 1788330358.4623778,
+    "ast_hash": "d7e410f0c4a988a590fd363c1035412b",
+    "semantic_hash": "d7e410f0c4a988a590fd363c1035412b"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-router-patterns/templates/react-router-basic-auth/package.json": {
+    "mtime": 1788330358.462081,
+    "ast_hash": "8173eb8b4dd1c09ba502e7b845224766",
+    "semantic_hash": "8173eb8b4dd1c09ba502e7b845224766"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-router-patterns/templates/react-router-basic-auth/react-router.config.ts": {
+    "mtime": 1788330358.4621053,
+    "ast_hash": "4985f5a968fe2472220068d3573430e8",
+    "semantic_hash": "4985f5a968fe2472220068d3573430e8"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-router-patterns/templates/react-router-basic-auth/vite.config.ts": {
+    "mtime": 1788330358.4621072,
+    "ast_hash": "29fb8b49ad1c816e1347aa3a1bed4cfa",
+    "semantic_hash": "29fb8b49ad1c816e1347aa3a1bed4cfa"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-setup/evals/evals.json": {
+    "mtime": 1788330358.0601754,
+    "ast_hash": "a64f423b196b98884787b55871ae20a2",
+    "semantic_hash": "a64f423b196b98884787b55871ae20a2"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-tanstack-patterns/evals/evals.json": {
+    "mtime": 1788330358.527232,
+    "ast_hash": "38b655b4adca25708e17c4d5516c46dd",
+    "semantic_hash": "38b655b4adca25708e17c4d5516c46dd"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-tanstack-patterns/templates/tanstack-basic-auth/package.json": {
+    "mtime": 1788330358.5277042,
+    "ast_hash": "896b71cb3db40a0941a1ed72b4bcb068",
+    "semantic_hash": "896b71cb3db40a0941a1ed72b4bcb068"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-tanstack-patterns/templates/tanstack-basic-auth/src/router.tsx": {
+    "mtime": 1788330358.5280416,
+    "ast_hash": "ccd25e04bcfa42aabc4e8566001d3c0d",
+    "semantic_hash": "ccd25e04bcfa42aabc4e8566001d3c0d"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-tanstack-patterns/templates/tanstack-basic-auth/src/routes/__root.tsx": {
+    "mtime": 1788330358.528074,
+    "ast_hash": "bbde9ea837d9ce6b6ef03d9c688d0351",
+    "semantic_hash": "bbde9ea837d9ce6b6ef03d9c688d0351"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-tanstack-patterns/templates/tanstack-basic-auth/src/routes/index.tsx": {
+    "mtime": 1788330358.5280917,
+    "ast_hash": "c1aac354de00b645e590bd542887a198",
+    "semantic_hash": "c1aac354de00b645e590bd542887a198"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-tanstack-patterns/templates/tanstack-basic-auth/src/start.ts": {
+    "mtime": 1788330358.5278854,
+    "ast_hash": "87e2e62e3053100e8b549ea84b84cb91",
+    "semantic_hash": "87e2e62e3053100e8b549ea84b84cb91"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-tanstack-patterns/templates/tanstack-basic-auth/tsconfig.json": {
+    "mtime": 1788330358.5276499,
+    "ast_hash": "7d3a51eb0f36b1af5fed6d850eb099f6",
+    "semantic_hash": "7d3a51eb0f36b1af5fed6d850eb099f6"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-tanstack-patterns/templates/tanstack-basic-auth/vite.config.ts": {
+    "mtime": 1788330358.52771,
+    "ast_hash": "204af487374cf4046c4b6f9c89d126b9",
+    "semantic_hash": "204af487374cf4046c4b6f9c89d126b9"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-vue-patterns/evals/evals.json": {
+    "mtime": 1788330358.5684397,
+    "ast_hash": "a69a873de0cd8ad8cd1960d8731bd4ca",
+    "semantic_hash": "a69a873de0cd8ad8cd1960d8731bd4ca"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-vue-patterns/templates/vue-basic-auth/package.json": {
+    "mtime": 1788330358.5687764,
+    "ast_hash": "c136501a01bc590624f1274b06bd8dfc",
+    "semantic_hash": "c136501a01bc590624f1274b06bd8dfc"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-vue-patterns/templates/vue-basic-auth/src/App.vue": {
+    "mtime": 1788330358.568884,
+    "ast_hash": "56f3b42c1fa330de1f2d2a25ab3335bc",
+    "semantic_hash": "56f3b42c1fa330de1f2d2a25ab3335bc"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-vue-patterns/templates/vue-basic-auth/src/main.ts": {
+    "mtime": 1788330358.5690014,
+    "ast_hash": "761943b91246c22aebbebfb1c809a414",
+    "semantic_hash": "761943b91246c22aebbebfb1c809a414"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-vue-patterns/templates/vue-basic-auth/vite.config.ts": {
+    "mtime": 1788330358.5687442,
+    "ast_hash": "d337a06f729fdd9513d33882f7727678",
+    "semantic_hash": "d337a06f729fdd9513d33882f7727678"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-webhooks/evals/evals.json": {
+    "mtime": 1788330358.1379864,
+    "ast_hash": "c101fa57baf2537369722383f8cc5eb1",
+    "semantic_hash": "c101fa57baf2537369722383f8cc5eb1"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/eslint.config.mjs": {
+    "mtime": 1788331233.2056208,
+    "ast_hash": "db7627dd8a77f5cc3529011b4a492c25",
+    "semantic_hash": "db7627dd8a77f5cc3529011b4a492c25"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/next.config.ts": {
+    "mtime": 1788074693.8095796,
+    "ast_hash": "9b77af189a21a7a64e4bd7a426f64176",
+    "semantic_hash": "9b77af189a21a7a64e4bd7a426f64176"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/package.json": {
+    "mtime": 1788347705.6008086,
+    "ast_hash": "302ffcdbc2f5450dbf4a3a34b93ededf",
+    "semantic_hash": "302ffcdbc2f5450dbf4a3a34b93ededf"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/postcss.config.mjs": {
+    "mtime": 1788074693.8096793,
+    "ast_hash": "239f3ebf717465dc636818a1a619398d",
+    "semantic_hash": "239f3ebf717465dc636818a1a619398d"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/skills-lock.json": {
+    "mtime": 1788335868.7201035,
+    "ast_hash": "5002e0e22ff65b38acc7478ce16109d2",
+    "semantic_hash": "5002e0e22ff65b38acc7478ce16109d2"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/app/(marketing)/page.tsx": {
+    "mtime": 1788288641.1816177,
+    "ast_hash": "0d1c5da220e8fd3ff3ed47d1efc34856",
+    "semantic_hash": "0d1c5da220e8fd3ff3ed47d1efc34856"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/app/account/[[...account]]/page.tsx": {
+    "mtime": 1788331884.11875,
+    "ast_hash": "ac3d1d707c5a4d04f4f73d96503a7155",
+    "semantic_hash": "ac3d1d707c5a4d04f4f73d96503a7155"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/app/api/webhooks/clerk/route.ts": {
+    "mtime": 1789071537.2880359,
+    "ast_hash": "5a56b83ea512e9f15af249c010dd8fbf",
+    "semantic_hash": "5a56b83ea512e9f15af249c010dd8fbf"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/app/dashboard/page.tsx": {
+    "mtime": 1788331884.0051117,
+    "ast_hash": "1fa803cb5dd22785c73c3b8cf4b596c7",
+    "semantic_hash": "1fa803cb5dd22785c73c3b8cf4b596c7"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/app/layout.tsx": {
+    "mtime": 1788330994.5114908,
+    "ast_hash": "b5a86d05a2296a297be2bb6fe3bd5015",
+    "semantic_hash": "b5a86d05a2296a297be2bb6fe3bd5015"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/app/sign-in/[[...sign-in]]/page.tsx": {
+    "mtime": 1788330994.5118656,
+    "ast_hash": "8aa14abccb7f94dd416d94d0a98325ca",
+    "semantic_hash": "8aa14abccb7f94dd416d94d0a98325ca"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/app/sign-up/[[...sign-up]]/page.tsx": {
+    "mtime": 1788330994.512221,
+    "ast_hash": "67e85a66812d927cdb140db4da7c0e9e",
+    "semantic_hash": "67e85a66812d927cdb140db4da7c0e9e"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/components/landing/layout/brand-mark.tsx": {
+    "mtime": 1788288640.781541,
+    "ast_hash": "e19e83d69e5a57e47e36561baf944e8a",
+    "semantic_hash": "e19e83d69e5a57e47e36561baf944e8a"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/components/landing/layout/site-footer.tsx": {
+    "mtime": 1788288640.8577561,
+    "ast_hash": "272906e507872db317132069f6313bdd",
+    "semantic_hash": "272906e507872db317132069f6313bdd"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/components/landing/layout/site-header.tsx": {
+    "mtime": 1788331883.9555213,
+    "ast_hash": "1186620e2e2d35a099b35f6399311bea",
+    "semantic_hash": "1186620e2e2d35a099b35f6399311bea"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/components/landing/sections/final-cta-section.tsx": {
+    "mtime": 1788288641.1411982,
+    "ast_hash": "1a8bd5abeda11e767f5fd5f47579380f",
+    "semantic_hash": "1a8bd5abeda11e767f5fd5f47579380f"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/components/landing/sections/hero-section.tsx": {
+    "mtime": 1788288640.934576,
+    "ast_hash": "1aa90457ecd6db3c4bac27d81f0026a9",
+    "semantic_hash": "1aa90457ecd6db3c4bac27d81f0026a9"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/components/landing/sections/scenario-strip.tsx": {
+    "mtime": 1788288640.9727402,
+    "ast_hash": "769585d9625e6f0bb70336a5680e164f",
+    "semantic_hash": "769585d9625e6f0bb70336a5680e164f"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/components/landing/sections/under-the-hood-section.tsx": {
+    "mtime": 1788288641.09946,
+    "ast_hash": "f941f06a4f8f9ec4841105bc95e54c3d",
+    "semantic_hash": "f941f06a4f8f9ec4841105bc95e54c3d"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/components/landing/sections/use-cases-section.tsx": {
+    "mtime": 1788288641.054226,
+    "ast_hash": "5f48e433aca268d7b699824882efe9ec",
+    "semantic_hash": "5f48e433aca268d7b699824882efe9ec"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/components/landing/sections/workflow-section.tsx": {
+    "mtime": 1788288641.0135808,
+    "ast_hash": "789a09b9328f57a9efd46eb5849c736a",
+    "semantic_hash": "789a09b9328f57a9efd46eb5849c736a"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/components/landing/visuals/monitor-demo.tsx": {
+    "mtime": 1788288640.8961732,
+    "ast_hash": "55a38a11c49fdd86822fe32ac4afce23",
+    "semantic_hash": "55a38a11c49fdd86822fe32ac4afce23"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/config/env.ts": {
+    "mtime": 1788346745.974229,
+    "ast_hash": "8dc5f34062ca930182c8e88ae8b8cce5",
+    "semantic_hash": "8dc5f34062ca930182c8e88ae8b8cce5"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/config/server-env.ts": {
+    "mtime": 1789071393.9787276,
+    "ast_hash": "424df09f0aa16d83d059a23e0f5fd451",
+    "semantic_hash": "424df09f0aa16d83d059a23e0f5fd451"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/lib/supabase/admin.ts": {
+    "mtime": 1789071393.9812932,
+    "ast_hash": "f49b4f23884c583cd1c591e0c571c508",
+    "semantic_hash": "f49b4f23884c583cd1c591e0c571c508"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/lib/supabase/client.ts": {
+    "mtime": 1788346746.0763195,
+    "ast_hash": "b58190feaf154d04e869d6f473ea9f76",
+    "semantic_hash": "b58190feaf154d04e869d6f473ea9f76"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/lib/supabase/server.ts": {
+    "mtime": 1788346746.0367534,
+    "ast_hash": "aaa3556e3d23ca095bd928be85460105",
+    "semantic_hash": "aaa3556e3d23ca095bd928be85460105"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/proxy.ts": {
+    "mtime": 1788331883.910262,
+    "ast_hash": "289392ffb05ffc124020c79d50f4b855",
+    "semantic_hash": "289392ffb05ffc124020c79d50f4b855"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/supabase/.temp/linked-project.json": {
+    "mtime": 1789075695.5562825,
+    "ast_hash": "662d05830ef4a5884675ed13b346efc6",
+    "semantic_hash": "662d05830ef4a5884675ed13b346efc6"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/supabase/migrations/20260902111643_create_notifyr_schema.sql": {
+    "mtime": 1788348067.3009772,
+    "ast_hash": "854f5c7b59f98889c54d55ee855ac5da",
+    "semantic_hash": "854f5c7b59f98889c54d55ee855ac5da"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/tsconfig.json": {
+    "mtime": 1788287633.1145487,
+    "ast_hash": "ee17fd1c97c735e9f3564e3f5251f125",
+    "semantic_hash": "ee17fd1c97c735e9f3564e3f5251f125"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-android/SKILL.md": {
+    "mtime": 1788330358.5833807,
+    "ast_hash": "010d0efb9dbbfd314df361e397e80d14",
+    "semantic_hash": "010d0efb9dbbfd314df361e397e80d14"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-android/references/custom.md": {
+    "mtime": 1788330358.5835059,
+    "ast_hash": "6a30596734324d397571d38917220ad1",
+    "semantic_hash": "6a30596734324d397571d38917220ad1"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-android/references/prebuilt.md": {
+    "mtime": 1788330358.5835173,
+    "ast_hash": "c63075fa64ef01b726c88ac64f714ec7",
+    "semantic_hash": "c63075fa64ef01b726c88ac64f714ec7"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-astro-patterns/SKILL.md": {
+    "mtime": 1788330358.1854155,
+    "ast_hash": "378c492bb7644a737eb0a6bf68634863",
+    "semantic_hash": "378c492bb7644a737eb0a6bf68634863"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-astro-patterns/references/api-routes.md": {
+    "mtime": 1788330358.1858015,
+    "ast_hash": "d859bb2afa860ac97731f0b6f9f7dd3f",
+    "semantic_hash": "d859bb2afa860ac97731f0b6f9f7dd3f"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-astro-patterns/references/astro-react.md": {
+    "mtime": 1788330358.1859753,
+    "ast_hash": "4d3e8306375ed004e503622adbb2f72f",
+    "semantic_hash": "4d3e8306375ed004e503622adbb2f72f"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-astro-patterns/references/island-components.md": {
+    "mtime": 1788330358.1856303,
+    "ast_hash": "81682b9b8a6490ef7ae97dc26de0cbfc",
+    "semantic_hash": "81682b9b8a6490ef7ae97dc26de0cbfc"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-astro-patterns/references/middleware.md": {
+    "mtime": 1788330358.1859431,
+    "ast_hash": "0844759de4630b107bde16fa41f353d3",
+    "semantic_hash": "0844759de4630b107bde16fa41f353d3"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-astro-patterns/references/ssr-pages.md": {
+    "mtime": 1788330358.1856174,
+    "ast_hash": "88fee177b1c656d8ae57a19783ee1345",
+    "semantic_hash": "88fee177b1c656d8ae57a19783ee1345"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-backend-api/SKILL.md": {
+    "mtime": 1788330357.954712,
+    "ast_hash": "91cd5f4169c447be70f074dff80df525",
+    "semantic_hash": "91cd5f4169c447be70f074dff80df525"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-billing/SKILL.md": {
+    "mtime": 1788330358.0873122,
+    "ast_hash": "d51af63eab96e024f56a1ab2e08d5fb7",
+    "semantic_hash": "d51af63eab96e024f56a1ab2e08d5fb7"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-billing/references/b2b-patterns.md": {
+    "mtime": 1788330358.0876186,
+    "ast_hash": "c0562475a4e33a32d6d051ee74d4c10e",
+    "semantic_hash": "c0562475a4e33a32d6d051ee74d4c10e"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-billing/references/b2c-patterns.md": {
+    "mtime": 1788330358.0876231,
+    "ast_hash": "a95160fbe913b7700611b0f2d81a5fdb",
+    "semantic_hash": "a95160fbe913b7700611b0f2d81a5fdb"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-billing/references/billing-components.md": {
+    "mtime": 1788330358.0878513,
+    "ast_hash": "0c02d5612f3ca76a55b87fb22ac98fe5",
+    "semantic_hash": "0c02d5612f3ca76a55b87fb22ac98fe5"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-billing/references/billing-webhooks.md": {
+    "mtime": 1788330358.0878565,
+    "ast_hash": "3f6b9eebacc3b5a25ec7bc12a855f3f5",
+    "semantic_hash": "3f6b9eebacc3b5a25ec7bc12a855f3f5"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-chrome-extension-patterns/SKILL.md": {
+    "mtime": 1788330358.2290227,
+    "ast_hash": "971e776af402c55ea925260ca64edd2d",
+    "semantic_hash": "971e776af402c55ea925260ca64edd2d"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-chrome-extension-patterns/references/content-scripts.md": {
+    "mtime": 1788330358.2292674,
+    "ast_hash": "4e8138741b5e0d9f467f8421827247fe",
+    "semantic_hash": "4e8138741b5e0d9f467f8421827247fe"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-chrome-extension-patterns/references/create-clerk-client.md": {
+    "mtime": 1788330358.2296236,
+    "ast_hash": "3144f5e2cc7dd020bd6ffc2a980ff792",
+    "semantic_hash": "3144f5e2cc7dd020bd6ffc2a980ff792"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-chrome-extension-patterns/references/headless-extension.md": {
+    "mtime": 1788330358.2292511,
+    "ast_hash": "263402ea75789be30bfa1bb8aee3b623",
+    "semantic_hash": "263402ea75789be30bfa1bb8aee3b623"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-chrome-extension-patterns/references/sync-host.md": {
+    "mtime": 1788330358.2295508,
+    "ast_hash": "e3d72dba7559586da684cdf4b1e35390",
+    "semantic_hash": "e3d72dba7559586da684cdf4b1e35390"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-cli/SKILL.md": {
+    "mtime": 1788330358.0030003,
+    "ast_hash": "e78e6a968b334b8698257056048ecdf3",
+    "semantic_hash": "e78e6a968b334b8698257056048ecdf3"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-cli/references/agent-mode.md": {
+    "mtime": 1788330358.003199,
+    "ast_hash": "d5e4354c5385bb565c4a037ea3c795fd",
+    "semantic_hash": "d5e4354c5385bb565c4a037ea3c795fd"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-cli/references/auth.md": {
+    "mtime": 1788330358.0033226,
+    "ast_hash": "71f0337c9fa916aba79048b7985bc7b1",
+    "semantic_hash": "71f0337c9fa916aba79048b7985bc7b1"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-cli/references/recipes.md": {
+    "mtime": 1788330358.0032291,
+    "ast_hash": "41efdefa7aebd0f13308565dd7416687",
+    "semantic_hash": "41efdefa7aebd0f13308565dd7416687"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-custom-ui/SKILL.md": {
+    "mtime": 1788330358.0453372,
+    "ast_hash": "fae6de128a2ec93592775f8e2e4b0cb5",
+    "semantic_hash": "fae6de128a2ec93592775f8e2e4b0cb5"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-custom-ui/core-2/custom-sign-in.md": {
+    "mtime": 1788330358.0457969,
+    "ast_hash": "1504060b1775f35dbce0d0c895431084",
+    "semantic_hash": "1504060b1775f35dbce0d0c895431084"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-custom-ui/core-2/custom-sign-up.md": {
+    "mtime": 1788330358.0456243,
+    "ast_hash": "c423175bb114711dc3612d0e1371e799",
+    "semantic_hash": "c423175bb114711dc3612d0e1371e799"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-custom-ui/core-3/custom-sign-in.md": {
+    "mtime": 1788330358.0456336,
+    "ast_hash": "ba21e1e7bac963263b6c3bde48f844c0",
+    "semantic_hash": "ba21e1e7bac963263b6c3bde48f844c0"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-custom-ui/core-3/custom-sign-up.md": {
+    "mtime": 1788330358.0456176,
+    "ast_hash": "291ccd4e21c23c0b054b3d2a7377286f",
+    "semantic_hash": "291ccd4e21c23c0b054b3d2a7377286f"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-custom-ui/core-3/show-component.md": {
+    "mtime": 1788330358.045621,
+    "ast_hash": "3312c00add9349c374e822b0ff633ac9",
+    "semantic_hash": "3312c00add9349c374e822b0ff633ac9"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-expo/SKILL.md": {
+    "mtime": 1788330358.6131525,
+    "ast_hash": "53d88c37146b553e6f13497fc3571fc1",
+    "semantic_hash": "53d88c37146b553e6f13497fc3571fc1"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-expo/references/custom-flows.md": {
+    "mtime": 1788330358.6135688,
+    "ast_hash": "906bf3796b236377cc2c38f640f81a3f",
+    "semantic_hash": "906bf3796b236377cc2c38f640f81a3f"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-expo/references/prebuilt-components.md": {
+    "mtime": 1788330358.613558,
+    "ast_hash": "0a2d303352d981d914d861644d39c747",
+    "semantic_hash": "0a2d303352d981d914d861644d39c747"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-expo/references/protected-routes.md": {
+    "mtime": 1788330358.6134286,
+    "ast_hash": "1851d05a6f5cb63f06cfe31b23873f03",
+    "semantic_hash": "1851d05a6f5cb63f06cfe31b23873f03"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-expo/references/recipes.md": {
+    "mtime": 1788330358.613767,
+    "ast_hash": "9e89cf5eaf227e8f81be3a3a0cc45c9a",
+    "semantic_hash": "9e89cf5eaf227e8f81be3a3a0cc45c9a"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-expo/references/setup.md": {
+    "mtime": 1788330358.6137698,
+    "ast_hash": "c7d13f0329b70a13b355b371ee6839d3",
+    "semantic_hash": "c7d13f0329b70a13b355b371ee6839d3"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-expo/references/sso-and-native-auth.md": {
+    "mtime": 1788330358.6139336,
+    "ast_hash": "0efc0cbbe60252c8e54570f0a24c1b5b",
+    "semantic_hash": "0efc0cbbe60252c8e54570f0a24c1b5b"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nextjs-patterns/SKILL.md": {
+    "mtime": 1788330358.278271,
+    "ast_hash": "ed3b69689ee11bf623266caf0e956c4a",
+    "semantic_hash": "ed3b69689ee11bf623266caf0e956c4a"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nextjs-patterns/references/api-routes.md": {
+    "mtime": 1788330358.2789907,
+    "ast_hash": "cd9ec3aa98cdb2984c36bda067df4553",
+    "semantic_hash": "cd9ec3aa98cdb2984c36bda067df4553"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nextjs-patterns/references/caching-auth.md": {
+    "mtime": 1788330358.2791305,
+    "ast_hash": "8fd0a94719ab4237677fd911160e75ed",
+    "semantic_hash": "8fd0a94719ab4237677fd911160e75ed"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nextjs-patterns/references/middleware-strategies.md": {
+    "mtime": 1788330358.279139,
+    "ast_hash": "5b7c124b091909353bb0bbfea7a455cf",
+    "semantic_hash": "5b7c124b091909353bb0bbfea7a455cf"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nextjs-patterns/references/server-actions.md": {
+    "mtime": 1788330358.2791328,
+    "ast_hash": "070da04206d0a78d9f0edef61d433d03",
+    "semantic_hash": "070da04206d0a78d9f0edef61d433d03"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nextjs-patterns/references/server-vs-client.md": {
+    "mtime": 1788330358.2791307,
+    "ast_hash": "d864ced0c7a8ff101773543e012c6104",
+    "semantic_hash": "d864ced0c7a8ff101773543e012c6104"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nuxt-patterns/SKILL.md": {
+    "mtime": 1788330358.310546,
+    "ast_hash": "a033a9b93e12a12d289ffc5b9052f299",
+    "semantic_hash": "a033a9b93e12a12d289ffc5b9052f299"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nuxt-patterns/references/composables.md": {
+    "mtime": 1788330358.3107955,
+    "ast_hash": "d7dc7321de9d262ce52495ea0bc4f0de",
+    "semantic_hash": "d7dc7321de9d262ce52495ea0bc4f0de"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nuxt-patterns/references/nuxt-middleware.md": {
+    "mtime": 1788330358.3108547,
+    "ast_hash": "162ae7954d86fee7137a5405b0080243",
+    "semantic_hash": "162ae7954d86fee7137a5405b0080243"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nuxt-patterns/references/server-api-routes.md": {
+    "mtime": 1788330358.3109455,
+    "ast_hash": "36ad2502648f1d4c73ff5c105840828a",
+    "semantic_hash": "36ad2502648f1d4c73ff5c105840828a"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-nuxt-patterns/references/ssr-auth.md": {
+    "mtime": 1788330358.3108122,
+    "ast_hash": "1b0060291574f6c4f5563cfcf6c19256",
+    "semantic_hash": "1b0060291574f6c4f5563cfcf6c19256"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-orgs/SKILL.md": {
+    "mtime": 1788330358.1146421,
+    "ast_hash": "9216e2a11a2845f0a18622edb6081fc6",
+    "semantic_hash": "9216e2a11a2845f0a18622edb6081fc6"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-orgs/references/enterprise-sso.md": {
+    "mtime": 1788330358.1147609,
+    "ast_hash": "7e12d45430f6e85906d66079bf257f80",
+    "semantic_hash": "7e12d45430f6e85906d66079bf257f80"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-orgs/references/invitations.md": {
+    "mtime": 1788330358.1145668,
+    "ast_hash": "7e5b43f9409595fc9775107c00ca428c",
+    "semantic_hash": "7e5b43f9409595fc9775107c00ca428c"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-orgs/references/nextjs-patterns.md": {
+    "mtime": 1788330358.11476,
+    "ast_hash": "71b9660f7296bc3df34fdb409a868a76",
+    "semantic_hash": "71b9660f7296bc3df34fdb409a868a76"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-orgs/references/roles-permissions.md": {
+    "mtime": 1788330358.114553,
+    "ast_hash": "b22c7a5ea38270a6f9a79d346a377103",
+    "semantic_hash": "b22c7a5ea38270a6f9a79d346a377103"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-patterns/SKILL.md": {
+    "mtime": 1788330358.3500333,
+    "ast_hash": "24e81583c4cd6078ed71565c8dfb60a1",
+    "semantic_hash": "24e81583c4cd6078ed71565c8dfb60a1"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-patterns/references/custom-flows.md": {
+    "mtime": 1788330358.3501337,
+    "ast_hash": "0269581f0f6cb73c682551bed0cec0d1",
+    "semantic_hash": "0269581f0f6cb73c682551bed0cec0d1"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-patterns/references/hooks.md": {
+    "mtime": 1788330358.350172,
+    "ast_hash": "65dd85c9fe2221a3ed603033edd66249",
+    "semantic_hash": "65dd85c9fe2221a3ed603033edd66249"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-patterns/references/protected-routes.md": {
+    "mtime": 1788330358.350179,
+    "ast_hash": "3dac0094e087974481888d7a5f6c44e0",
+    "semantic_hash": "3dac0094e087974481888d7a5f6c44e0"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-patterns/references/router-integration.md": {
+    "mtime": 1788330358.3502443,
+    "ast_hash": "6de094e7874ff648e5154a52388356c1",
+    "semantic_hash": "6de094e7874ff648e5154a52388356c1"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-patterns/templates/react-basic-auth/index.html": {
+    "mtime": 1788330358.3504896,
+    "ast_hash": "904cc9c9c3e42d01b917b4432dea2894",
+    "semantic_hash": "904cc9c9c3e42d01b917b4432dea2894"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-router-patterns/SKILL.md": {
+    "mtime": 1788330358.4611473,
+    "ast_hash": "aa0f222f52a6eb688faba2944ad0c569",
+    "semantic_hash": "aa0f222f52a6eb688faba2944ad0c569"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-router-patterns/references/loaders-actions.md": {
+    "mtime": 1788330358.461346,
+    "ast_hash": "3f360a58e3f76b4a5294bfe5bfa55259",
+    "semantic_hash": "3f360a58e3f76b4a5294bfe5bfa55259"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-router-patterns/references/protected-routes.md": {
+    "mtime": 1788330358.4614415,
+    "ast_hash": "d7db6ff6ff45304e6ce8e9130d5433be",
+    "semantic_hash": "d7db6ff6ff45304e6ce8e9130d5433be"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-react-router-patterns/references/ssr-auth.md": {
+    "mtime": 1788330358.461507,
+    "ast_hash": "d9585fb262ded9e61aeb73e6441cc209",
+    "semantic_hash": "d9585fb262ded9e61aeb73e6441cc209"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-setup/SKILL.md": {
+    "mtime": 1788330358.0600483,
+    "ast_hash": "bd63b7ac45c0a357380f7eb057c4dce6",
+    "semantic_hash": "bd63b7ac45c0a357380f7eb057c4dce6"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-swift/SKILL.md": {
+    "mtime": 1788330358.6290448,
+    "ast_hash": "d0ab326831399aa35dfdaaf2ef2762f4",
+    "semantic_hash": "d0ab326831399aa35dfdaaf2ef2762f4"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-swift/references/custom.md": {
+    "mtime": 1788330358.629027,
+    "ast_hash": "f4c950e3f77867e9721b50ce8a120d6b",
+    "semantic_hash": "f4c950e3f77867e9721b50ce8a120d6b"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-swift/references/prebuilt.md": {
+    "mtime": 1788330358.6291773,
+    "ast_hash": "89704f7bd81cdfc4a85e3863fac0d41f",
+    "semantic_hash": "89704f7bd81cdfc4a85e3863fac0d41f"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-tanstack-patterns/SKILL.md": {
+    "mtime": 1788330358.5269213,
+    "ast_hash": "525f5d513363a42a88602a835b353017",
+    "semantic_hash": "525f5d513363a42a88602a835b353017"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-tanstack-patterns/references/loaders.md": {
+    "mtime": 1788330358.5272217,
+    "ast_hash": "525e575f69eec4ee68f66309791c5c2d",
+    "semantic_hash": "525e575f69eec4ee68f66309791c5c2d"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-tanstack-patterns/references/router-guards.md": {
+    "mtime": 1788330358.5272162,
+    "ast_hash": "57e18fc6561d50ff10f9caaa525c5fa3",
+    "semantic_hash": "57e18fc6561d50ff10f9caaa525c5fa3"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-tanstack-patterns/references/server-functions.md": {
+    "mtime": 1788330358.527343,
+    "ast_hash": "c8dda84691fa0cb26fcdb6bc15284c9d",
+    "semantic_hash": "c8dda84691fa0cb26fcdb6bc15284c9d"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-tanstack-patterns/references/vinxi-server.md": {
+    "mtime": 1788330358.5272167,
+    "ast_hash": "b7602a8a625b81b2a8bb1e45c91597c5",
+    "semantic_hash": "b7602a8a625b81b2a8bb1e45c91597c5"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-testing/SKILL.md": {
+    "mtime": 1788330358.1227598,
+    "ast_hash": "943348c116d5785e182a2414b4891492",
+    "semantic_hash": "943348c116d5785e182a2414b4891492"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-vue-patterns/SKILL.md": {
+    "mtime": 1788330358.5681992,
+    "ast_hash": "8ec01417b5c6a8da19e598eb69830059",
+    "semantic_hash": "8ec01417b5c6a8da19e598eb69830059"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-vue-patterns/references/composables.md": {
+    "mtime": 1788330358.5684936,
+    "ast_hash": "42002573ac3ca3900f500c7f9c877617",
+    "semantic_hash": "42002573ac3ca3900f500c7f9c877617"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-vue-patterns/references/pinia-integration.md": {
+    "mtime": 1788330358.5684628,
+    "ast_hash": "f2a5fbd75403767a15064bfe1333028b",
+    "semantic_hash": "f2a5fbd75403767a15064bfe1333028b"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-vue-patterns/references/vue-router-guards.md": {
+    "mtime": 1788330358.5685487,
+    "ast_hash": "4e29c4771cb04c3a471b5fff70d59ae7",
+    "semantic_hash": "4e29c4771cb04c3a471b5fff70d59ae7"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-vue-patterns/templates/vue-basic-auth/index.html": {
+    "mtime": 1788330358.5688663,
+    "ast_hash": "386a7a3f15646fd21e101475c69cf6ff",
+    "semantic_hash": "386a7a3f15646fd21e101475c69cf6ff"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-webhooks/SKILL.md": {
+    "mtime": 1788330358.1378875,
+    "ast_hash": "36fee887626341a9bd18c05a44fa389e",
+    "semantic_hash": "36fee887626341a9bd18c05a44fa389e"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk-webhooks/references/frameworks.md": {
+    "mtime": 1788330358.1380847,
+    "ast_hash": "81bff7cefcfcc56615f170cd8d5c42b1",
+    "semantic_hash": "81bff7cefcfcc56615f170cd8d5c42b1"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/clerk/SKILL.md": {
+    "mtime": 1788330357.8396637,
+    "ast_hash": "417bc95950a0c26ba4f097190554cacc",
+    "semantic_hash": "417bc95950a0c26ba4f097190554cacc"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/CHANGELOG.md": {
+    "mtime": 1788335868.7105,
+    "ast_hash": "ec7c44c2b44de9f2802e6ba565acd78f",
+    "semantic_hash": "ec7c44c2b44de9f2802e6ba565acd78f"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/SKILL.md": {
+    "mtime": 1788335868.710725,
+    "ast_hash": "ea86e326638c57d05050456a9f6d89c1",
+    "semantic_hash": "ea86e326638c57d05050456a9f6d89c1"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/_contributing.md": {
+    "mtime": 1788335868.7114012,
+    "ast_hash": "19edd365b47667a9b81108cacfd75775",
+    "semantic_hash": "19edd365b47667a9b81108cacfd75775"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/_sections.md": {
+    "mtime": 1788335868.7113948,
+    "ast_hash": "7cc4829a3718c745dfdbec554c30485f",
+    "semantic_hash": "7cc4829a3718c745dfdbec554c30485f"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/_template.md": {
+    "mtime": 1788335868.7113953,
+    "ast_hash": "384ee769a417d3001e81d81b139acbf6",
+    "semantic_hash": "384ee769a417d3001e81d81b139acbf6"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/advanced-full-text-search.md": {
+    "mtime": 1788335868.7114336,
+    "ast_hash": "f32a27eab306ad2a29db0a2a8a55b03c",
+    "semantic_hash": "f32a27eab306ad2a29db0a2a8a55b03c"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/advanced-jsonb-indexing.md": {
+    "mtime": 1788335868.7115562,
+    "ast_hash": "5b4fbcc451879892d366fa02194bb536",
+    "semantic_hash": "5b4fbcc451879892d366fa02194bb536"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/conn-idle-timeout.md": {
+    "mtime": 1788335868.7116053,
+    "ast_hash": "c73ea45eecdb007786cd3b3e08e31640",
+    "semantic_hash": "c73ea45eecdb007786cd3b3e08e31640"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/conn-limits.md": {
+    "mtime": 1788335868.7116044,
+    "ast_hash": "59025fe12439048e81296f28feca4ce1",
+    "semantic_hash": "59025fe12439048e81296f28feca4ce1"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/conn-pooling.md": {
+    "mtime": 1788335868.7117016,
+    "ast_hash": "8561b805a5e0bdfa348840266861de66",
+    "semantic_hash": "8561b805a5e0bdfa348840266861de66"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/conn-prepared-statements.md": {
+    "mtime": 1788335868.711683,
+    "ast_hash": "fe941145678825d273baac1fe66d4dce",
+    "semantic_hash": "fe941145678825d273baac1fe66d4dce"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/data-batch-inserts.md": {
+    "mtime": 1788335868.7118359,
+    "ast_hash": "75a4e92f80b90818221fae51f8b994f1",
+    "semantic_hash": "75a4e92f80b90818221fae51f8b994f1"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/data-n-plus-one.md": {
+    "mtime": 1788335868.7118416,
+    "ast_hash": "4fc111bb51121f5181910b3759061ada",
+    "semantic_hash": "4fc111bb51121f5181910b3759061ada"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/data-pagination.md": {
+    "mtime": 1788335868.7118447,
+    "ast_hash": "0e9b3211df99b3d35f7083c984b03ccb",
+    "semantic_hash": "0e9b3211df99b3d35f7083c984b03ccb"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/data-upsert.md": {
+    "mtime": 1788335868.7119894,
+    "ast_hash": "51a26138848f5fec547cd56b9bcb33d4",
+    "semantic_hash": "51a26138848f5fec547cd56b9bcb33d4"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/lock-advisory.md": {
+    "mtime": 1788335868.7119331,
+    "ast_hash": "3f3523b7b0a812a6906f92a6610a5a9b",
+    "semantic_hash": "3f3523b7b0a812a6906f92a6610a5a9b"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/lock-deadlock-prevention.md": {
+    "mtime": 1788335868.7120192,
+    "ast_hash": "07eae98867b47074d82528df59d2135e",
+    "semantic_hash": "07eae98867b47074d82528df59d2135e"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/lock-short-transactions.md": {
+    "mtime": 1788335868.7120764,
+    "ast_hash": "aea973297ac14bba2586a2ff57fd8ff7",
+    "semantic_hash": "aea973297ac14bba2586a2ff57fd8ff7"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/lock-skip-locked.md": {
+    "mtime": 1788335868.7122636,
+    "ast_hash": "26e9bd402801299afce06ee506a9f864",
+    "semantic_hash": "26e9bd402801299afce06ee506a9f864"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/monitor-explain-analyze.md": {
+    "mtime": 1788335868.7120912,
+    "ast_hash": "93d5998318098652ac380cd354718924",
+    "semantic_hash": "93d5998318098652ac380cd354718924"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/monitor-pg-stat-statements.md": {
+    "mtime": 1788335868.7122695,
+    "ast_hash": "ee51d9586cf18c848563799c14dcc638",
+    "semantic_hash": "ee51d9586cf18c848563799c14dcc638"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/monitor-vacuum-analyze.md": {
+    "mtime": 1788335868.7126474,
+    "ast_hash": "e3d1e4f8831a37bdb1c7f364b911f7a6",
+    "semantic_hash": "e3d1e4f8831a37bdb1c7f364b911f7a6"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/query-composite-indexes.md": {
+    "mtime": 1788335868.7122674,
+    "ast_hash": "bd959891036289cfaf3d54e49599b2d0",
+    "semantic_hash": "bd959891036289cfaf3d54e49599b2d0"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/query-covering-indexes.md": {
+    "mtime": 1788335868.7124298,
+    "ast_hash": "5e62afcfe9289405caec1f32f351dd29",
+    "semantic_hash": "5e62afcfe9289405caec1f32f351dd29"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/query-index-types.md": {
+    "mtime": 1788335868.712559,
+    "ast_hash": "ef0d4ad9d1eb0466a0bde542ade59de2",
+    "semantic_hash": "ef0d4ad9d1eb0466a0bde542ade59de2"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/query-missing-indexes.md": {
+    "mtime": 1788335868.7122703,
+    "ast_hash": "1bd5f85a9c930219dd479825986bd6ad",
+    "semantic_hash": "1bd5f85a9c930219dd479825986bd6ad"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/query-partial-indexes.md": {
+    "mtime": 1788335868.712552,
+    "ast_hash": "a6c64f9136f8a7880e53df3e259d90c9",
+    "semantic_hash": "a6c64f9136f8a7880e53df3e259d90c9"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/schema-constraints.md": {
+    "mtime": 1788335868.7126534,
+    "ast_hash": "e7362385f5b79c28f5e495d7c45a7a52",
+    "semantic_hash": "e7362385f5b79c28f5e495d7c45a7a52"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/schema-data-types.md": {
+    "mtime": 1788335868.7126646,
+    "ast_hash": "a10f1ec17bd499622d9201af3d00e0d4",
+    "semantic_hash": "a10f1ec17bd499622d9201af3d00e0d4"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/schema-foreign-key-indexes.md": {
+    "mtime": 1788335868.7128484,
+    "ast_hash": "6bc02b38edd88e56c89bab863f5c789b",
+    "semantic_hash": "6bc02b38edd88e56c89bab863f5c789b"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/schema-lowercase-identifiers.md": {
+    "mtime": 1788335868.7126715,
+    "ast_hash": "1df2eae336d542d365f99abdfa968367",
+    "semantic_hash": "1df2eae336d542d365f99abdfa968367"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/schema-partitioning.md": {
+    "mtime": 1788335868.7129204,
+    "ast_hash": "e95568857288b614ba0d4b8cd1b4fb72",
+    "semantic_hash": "e95568857288b614ba0d4b8cd1b4fb72"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/schema-primary-keys.md": {
+    "mtime": 1788335868.7127762,
+    "ast_hash": "63412819d632d8cbe39f14630e5de085",
+    "semantic_hash": "63412819d632d8cbe39f14630e5de085"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/security-privileges.md": {
+    "mtime": 1788335868.7129018,
+    "ast_hash": "212beb5d93e7c02cb61c95e117af3aaa",
+    "semantic_hash": "212beb5d93e7c02cb61c95e117af3aaa"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/security-rls-basics.md": {
+    "mtime": 1788335868.7128062,
+    "ast_hash": "2349e490ff266b1c2b81a2368c054baa",
+    "semantic_hash": "2349e490ff266b1c2b81a2368c054baa"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase-postgres-best-practices/references/security-rls-performance.md": {
+    "mtime": 1788335868.7128322,
+    "ast_hash": "6c87b7d050ba714a95a2b88eb0b6caf0",
+    "semantic_hash": "6c87b7d050ba714a95a2b88eb0b6caf0"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase/CHANGELOG.md": {
+    "mtime": 1788335868.6099968,
+    "ast_hash": "419da285e98f313fc14f5d85f17b8d4c",
+    "semantic_hash": "419da285e98f313fc14f5d85f17b8d4c"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase/SKILL.md": {
+    "mtime": 1788335868.610114,
+    "ast_hash": "44e2daf8cfb32f6410599dcf8c96b2ee",
+    "semantic_hash": "44e2daf8cfb32f6410599dcf8c96b2ee"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase/assets/feedback-issue-template.md": {
+    "mtime": 1788335868.610212,
+    "ast_hash": "a38bcf7c09794faf287d91a992830b47",
+    "semantic_hash": "a38bcf7c09794faf287d91a992830b47"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/.agents/skills/supabase/references/skill-feedback.md": {
+    "mtime": 1788335868.6102138,
+    "ast_hash": "38a53e95ded880782190ddf2f2810317",
+    "semantic_hash": "38a53e95ded880782190ddf2f2810317"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/AGENTS.md": {
+    "mtime": 1788074699.9579806,
+    "ast_hash": "01e8142356e15c3404e0d84c48187cd0",
+    "semantic_hash": "01e8142356e15c3404e0d84c48187cd0"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/CLAUDE.md": {
+    "mtime": 1788074699.958044,
+    "ast_hash": "5c27369b226fcf2be8a6cfe52224e767",
+    "semantic_hash": "5c27369b226fcf2be8a6cfe52224e767"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/README.md": {
+    "mtime": 1788074693.8092668,
+    "ast_hash": "f15aaa42d5d299d091b1171097ea56ad",
+    "semantic_hash": "f15aaa42d5d299d091b1171097ea56ad"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/docs/notifications.md": {
+    "mtime": 1788333615.257493,
+    "ast_hash": "e3fe353fcd004498f83c6e194752c5ae",
+    "semantic_hash": "e3fe353fcd004498f83c6e194752c5ae"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/pnpm-workspace.yaml": {
+    "mtime": 1788331549.1617224,
+    "ast_hash": "11aa2262bce5a7267b546303cc9b11f7",
+    "semantic_hash": "11aa2262bce5a7267b546303cc9b11f7"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/src/components/landing/README.md": {
+    "mtime": 1788287406.8084924,
+    "ast_hash": "3de222a992a80a12c2686cbf761ab638",
+    "semantic_hash": "3de222a992a80a12c2686cbf761ab638"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/public/file.svg": {
+    "mtime": 1788074693.8092628,
+    "ast_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71",
+    "semantic_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/public/globe.svg": {
+    "mtime": 1788074693.8103466,
+    "ast_hash": "2aaafa6a49b6563925fe440891e32717",
+    "semantic_hash": "2aaafa6a49b6563925fe440891e32717"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/public/next.svg": {
+    "mtime": 1788074693.8104107,
+    "ast_hash": "8e061864f388b47f33a1c3780831193e",
+    "semantic_hash": "8e061864f388b47f33a1c3780831193e"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/public/vercel.svg": {
+    "mtime": 1788074693.8104072,
+    "ast_hash": "c0af2f507b369b085b35ef4bbe3bcf1e",
+    "semantic_hash": "c0af2f507b369b085b35ef4bbe3bcf1e"
+  },
+  "/Users/shubhamvarshney/webdevelopment/Notifyr-web/notifyr/public/window.svg": {
+    "mtime": 1788074693.8105729,
+    "ast_hash": "a2760511c65806022ad20adf74370ff3",
+    "semantic_hash": "a2760511c65806022ad20adf74370ff3"
+  }
+}

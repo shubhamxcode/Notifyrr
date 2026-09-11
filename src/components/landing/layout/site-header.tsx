@@ -31,12 +31,12 @@ export function SiteHeader() {
 
       <div className="site-header__auth">
         <Show when="signed-out">
-          <SignInButton mode="modal" forceRedirectUrl="/dashboard">
+          <SignInButton mode="modal">
             <button className="auth-link" type="button">
               Sign in
             </button>
           </SignInButton>
-          <SignUpButton mode="modal" forceRedirectUrl="/dashboard">
+          <SignUpButton mode="modal">
             <button className="button button--compact button--dark" type="button">
               Get started
             </button>
